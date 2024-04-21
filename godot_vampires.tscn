@@ -17,6 +17,15 @@ position = Vector2(923, 564)
 [node name="Mob" parent="." instance=ExtResource("3_8j5bb")]
 position = Vector2(387, 455)
 
+[node name="Mob2" parent="." instance=ExtResource("3_8j5bb")]
+position = Vector2(1580, 812)
+
+[node name="Mob3" parent="." instance=ExtResource("3_8j5bb")]
+position = Vector2(744, 1001)
+
+[node name="Mob4" parent="." instance=ExtResource("3_8j5bb")]
+position = Vector2(977, 198)
+
 [node name="PineTree" parent="." instance=ExtResource("2_vv4iq")]
 position = Vector2(270, 851)
 
