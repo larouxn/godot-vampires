@@ -23,6 +23,7 @@ offset_bottom = 1107.0
 
 [node name="Player" parent="." instance=ExtResource("1_nx7cb")]
 position = Vector2(923, 564)
+platform_floor_layers = 0
 
 [node name="Path2D" type="Path2D" parent="Player"]
 position = Vector2(-923, -564)
